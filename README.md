@@ -1,1 +1,1 @@
-# machine-learning-tutorials
+# machine-learning-beginner-to-mid-level resources
